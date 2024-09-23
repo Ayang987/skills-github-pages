@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog
+author: YangZen
 ---
 
 # 马雅舒砥砺奋进
